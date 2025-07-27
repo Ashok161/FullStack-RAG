@@ -26,7 +26,6 @@ chroma/*.bin
 chroma/*/
 
 # PDF files (if not needed in repo)
-backend/pdfs/*.PDF
 
 # Misc
 .env.local
